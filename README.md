@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @InformatiqueAdapteItAdapt
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Khadija
+- 👀 I’m interested in e@administration digital education and world
+- 🌱 I’m currently learning to create Women Technology Organisation ..
+- 💞️ I’m looking to collaborate on 
+- 📫 How to reach me
+- call me +33 7 49 27 85 29...
 
 <!---
-InformatiqueAdapteItAdapt/InformatiqueAdapteItAdapt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
